@@ -2797,7 +2797,7 @@
 			"id-name": "Vensim_cin.udl",
 			"display-name": "Vensim-cin",
 			"version": "2024-03-13",
-			"repository": "https://github.com/julianM5/vensim_user-defined_language/blob/main/UDL/Vensim_cin.udl.xml",
+			"repository": "https://github.com/julianM5/vensim_userDefinedLanguage/blob/main/UDL/Vensim_cin.udl.xml",
 			"description": "Syntax highlighting definition for Vensim cin file extension (Constant input files)",
 			"author": "julianM5 <mailto:julian.emmerich@m-five.de>"
 		},
@@ -2805,7 +2805,7 @@
 			"id-name": "Vensim_cmd.udl",
 			"display-name": "Vensim-cmd",
 			"version": "2024-03-13",
-			"repository": "https://github.com/julianM5/vensim_user-defined_language/blob/main/UDL/Vensim_cmd.udl.xml",
+			"repository": "https://github.com/julianM5/vensim_userDefinedLanguage/blob/main/UDL/Vensim_cmd.udl.xml",
 			"description": "Syntax highlighting definition for Vensim cmd file extension (Command files)",
 			"author": "julianM5 <mailto:julian.emmerich@m-five.de>"
 		},
@@ -2813,7 +2813,7 @@
 			"id-name": "Vensim_mdl.udl",
 			"display-name": "Vensim-mdl",
 			"version": "2024-03-13",
-			"repository": "https://github.com/julianM5/vensim_user-defined_language/blob/main/UDL/Vensim_mdl.udl.xml",
+			"repository": "https://github.com/julianM5/vensim_userDefinedLanguage/blob/main/UDL/Vensim_mdl.udl.xml",
 			"description": "Syntax highlighting definition for Vensim mdl file extension (Vensim model files)",
 			"author": "julianM5 <mailto:julian.emmerich@m-five.de>"
 		},
@@ -2821,7 +2821,7 @@
 			"id-name": "Vensim_vgd.udl",
 			"display-name": "Vensim-vgd",
 			"version": "2024-03-13",
-			"repository": "https://github.com/julianM5/vensim_user-defined_language/blob/main/UDL/Vensim_vgd.udl.xml",
+			"repository": "https://github.com/julianM5/vensim_userDefinedLanguage/blob/main/UDL/Vensim_vgd.udl.xml",
 			"description": "Syntax highlighting definition for Vensim vgd file extension (Vensim graph definition files)",
 			"author": "julianM5 <mailto:julian.emmerich@m-five.de>"
 		}
